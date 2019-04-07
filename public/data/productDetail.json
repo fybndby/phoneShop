@@ -1,0 +1,91 @@
+{
+    "list": [
+        {
+            "id": "1",
+            "title": "小米Note3 人脸解锁",
+            "price": 2099,
+            "imgurl":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7",
+            "swiperList": [
+
+                {   "id":"11",
+                    "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/7e98be403a5f4277adba84acaecb9c76.jpg?bg=6D96C7"
+                },
+                {   "id":"12",
+                    "url":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2844156800,2277239801&fm=27&gp=0.jpg"
+                }
+                
+            ],
+
+            "discount": "【手机品牌日限时特惠：128GB 今早10点限时特价秒杀。6+64GB直降200元，4+64GB直降100元。全系可享小米分期最高6期免息】",
+            "desc": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+            "location":"巴基斯坦",
+            "count": 0,
+            "stock": 7
+        },
+        {
+            "id": "2",
+            "title": "小米Max2 大屏大电量",
+            "price": 1999,
+            "imgurl":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8e8f00d32ef069600bf047c05bb5abd6.jpg?bg=AEB9C9",
+            "swiperList": [
+
+                {   "id":"21",
+                    "url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8e8f00d32ef069600bf047c05bb5abd6.jpg?bg=AEB9C9"
+                },
+                {   "id":"22",
+                    "url":"https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2844156800,2277239801&fm=27&gp=0.jpg"
+                }
+                
+            ],
+            "discount": "【手机品牌日限时特惠：128GB 今早10点限时特价秒杀。6+64GB直降200元，4+64GB直降100元。全系可享小米分期最高6期免息】",
+            "desc": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+            "location":"阿富汗",
+            "count": 0,
+            "stock": 5
+        },
+        {
+            "id": "3",
+            "title": "小米MIX2 全面屏2.0",
+            "price": 2999,
+            "imgurl":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/275b4b53477b55f38c9d9b7fdf4d913b.jpg?bg=684A46",
+            
+            "swiperList": [
+
+                {   "id":"31",
+                    "url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/275b4b53477b55f38c9d9b7fdf4d913b.jpg?bg=684A46"
+                },
+                {   "id":"32",
+                    "url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2844156800,2277239801&fm=27&gp=0.jpg"
+                }
+                
+            ],
+
+            "discount": "【手机品牌日限时特惠：128GB 今早10点限时特价秒杀。6+64GB直降200元，4+64GB直降100元。全系可享小米分期最高6期免息】",
+            "desc": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+            "location":"越南",
+            "count": 0,
+            "stock": 10
+        },
+        {
+            "id": "4",
+            "title": "小米电视4A 50英寸",
+            "price": 2399,
+            "imgurl":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f2230cfe9ac3090ebd6d5d9c2a0fdec3.jpg?bg=827470",
+            "swiperList": [
+
+                {   "id":"41",
+                    "url": "//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/f2230cfe9ac3090ebd6d5d9c2a0fdec3.jpg?bg=827470"
+                },
+                {   "id":"42",
+                    "url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2844156800,2277239801&fm=27&gp=0.jpg"
+                }
+                
+            ],
+            "discount": "【手机品牌日限时特惠：128GB 今早10点限时特价秒杀。6+64GB直降200元，4+64GB直降100元。全系可享小米分期最高6期免息】",
+            "desc": "1600万美颜自拍 / 2倍变焦双摄，四轴光学防抖 / 5.5\"护眼屏 / 超轻四曲面，7系铝金属边框。",
+            "location":"印度",
+            "count": 0,
+            "stock": 5
+        }
+    ]
+}
